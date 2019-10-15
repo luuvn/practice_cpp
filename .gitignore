@@ -1,1 +1,5 @@
 .idea
+/.vs
+/.vscode/ipch
+/lib/googletest/msvc/.vs/gtest/v16
+/out/build/x64-Debug
